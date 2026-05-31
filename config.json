@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggervetch",
+        "uuid": 706278,
+        "checksum": "c3z6vl"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
